@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: WP WOO TOTP
-Plugin URI: mtdev.ovh
-Description: Activate and deactivate TOTP authentification
+Plugin URI: https://mtdev.ovh
+Description: This plugin allows WooCommerce users to protect their accounts using TOTP (Time-Based One-Time Password)
 Version: 1.0
-Author URI: mtdev.ovh
+Author URI: MT
 License: free
 Text Domain: wp_woo_totp
 */
