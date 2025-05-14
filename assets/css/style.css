@@ -1,0 +1,108 @@
+.verification-code-form{
+
+    padding: 10px;
+
+}   
+
+.wp-woo-totp-page p{
+
+    font-size: 18px;
+
+}
+
+.wp-woo-totp-page .wp-woo-totp-activation{
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+} 
+
+.wp-woo-totp-verification-code-container{
+
+    max-width: 400px; 
+    margin: 50px auto; 
+    font-family: sans-serif; 
+    background: #fff; 
+    border: 1px solid #ddd; 
+    border-radius: 10px; 
+    padding: 30px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.05);
+
+}
+
+.wp-woo-totp-verification-code-container h2{
+
+    margin-bottom: 20px; 
+    font-size: 22px; 
+    text-align: center;
+
+}
+
+.wp-woo-totp-verification-code-container p{
+
+    font-size: 15px; 
+    color: #555; 
+    text-align: center; 
+    margin-bottom: 20px;
+
+}
+
+.wp-woo-totp-verification-code-container form{
+
+    display: flex; 
+    flex-direction: column; 
+    gap: 15px;
+    
+}
+
+.wp-woo-totp-verification-code-container input{
+
+    padding: 12px; 
+    font-size: 16px; 
+    border: 1px solid #ccc; 
+    border-radius: 6px; 
+    text-align: center; 
+    letter-spacing: 3px;
+
+}
+
+.wp-woo-totp-verification-code-container button{
+
+   padding: 12px; 
+   font-size: 16px; 
+   background-color: #0073aa; 
+   color: #fff; 
+   border: none; 
+   border-radius: 6px; 
+   cursor: pointer; 
+   
+}
+
+.wp-woo-totp-notifications{
+
+    font-size:18px;
+
+}
+
+.wp-woo-totp-notifications .notification{
+
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+
+}
+
+.wp-woo-totp-notifications .success{
+
+    background-color: #dffdeb; 
+
+}
+
+.wp-woo-totp-notifications .failure{
+
+    background-color: #f2dede; /* Light red */
+
+}
