@@ -22,7 +22,7 @@
 <h2>📦 Installation</h2>
 <ol>
   <li><strong>Clone the repository</strong> into your WordPress <code>wp-content/plugins/</code> directory:
-    <pre>git clone https://github.com/your-username/your-plugin-repo.git your-plugin-folder</pre>
+    <pre>git clone https://github.com/MMTWeb/wp-woo-totp.git</pre>
   </li>
   <li><strong>Activate the plugin</strong> from the WordPress admin dashboard under <em>Plugins > Installed Plugins</em>.</li>
   <li><strong>Enable TOTP</strong> for your account via the user profile settings (or have an admin enable it for you).</li>
