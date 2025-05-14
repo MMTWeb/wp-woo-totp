@@ -45,14 +45,6 @@
 <h2>📜 License</h2>
 <p>This plugin is open-source and released under the <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank">GPL v3+</a> license.</p>
 
-<h2>📌 Support</h2>
-<p>For questions or issues, reach out via:</p>
-<ul>
-  <li><a href="https://github.com/your-username/your-plugin-repo/issues" target="_blank">GitHub Issues</a></li>
-  <li><a href="https://wordpress.org/support/" target="_blank">WordPress Plugin Support Forum</a></li>
-</ul>
-
-<p><strong>Secure your WooCommerce accounts with TOTP today! 🔐</strong></p>
 <h2>📝 Notes</h2>
 <ul>
   <li><strong>User Responsibility</strong>: Users must set up TOTP via their own app. Admins cannot generate or manage TOTP secrets.</li>
